@@ -1,0 +1,29 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Go to the Gym",
+      "day": "Feb 5th at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Visit the Ternary",
+      "day": "Feb 6th at 2:00pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Chop and Sleep",
+      "day": "Feb 7th at 3:30pm",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "Optimize Linkedin",
+      "day": "Oct 7th at 3:30pm",
+      "reminder": true
+    }
+
+  ]
+}
